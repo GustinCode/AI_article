@@ -35,4 +35,4 @@ Dall-e：
 
 se você quiser ler um pouco sobre o artigo e dar algum site para adicionar, por favor deixe uma mensagem na aba de edições, para eu atualizá-lo e torná-lo ainda melhor
 
-[Click aqui para ler!]([https://github.com/GustinGame/ai-gen-ebook/blob/master/DesvendandoFullStack_GustavoHenrique.pdf](https://web.dio.me/articles/metodologia-ageis-na-elaboracao-de-mvps-em-projetos-de-software?back=%2Farticles&open-modal=true&page=1&order=oldest))
+[Click aqui para ler!](https://web.dio.me/articles/metodologia-ageis-na-elaboracao-de-mvps-em-projetos-de-software?back=%2Farticles&open-modal=true&page=1&order=oldest)
